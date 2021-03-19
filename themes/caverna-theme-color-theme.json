@@ -360,7 +360,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#413f8b"
+				"foreground": "#a9a7f1"
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#6862ff"
 			}
 		},
 		{
