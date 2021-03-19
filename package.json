@@ -5,7 +5,7 @@
     "icon": ".github/patocornio.png",
     "publisher": "jpbrab0",
     "repository": "https://github.com/acaverna/caverna-vscode-theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },
