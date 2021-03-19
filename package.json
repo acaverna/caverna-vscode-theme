@@ -1,0 +1,24 @@
+{
+    "name": "caverna-theme",
+    "displayName": "Caverna Theme",
+    "description": "The Caverna Theme is the official theme of the discord community of the A Caverna do Patocórnio.",
+    "icon": ".github/patocornio.png",
+    "publisher": "jpbrab0",
+    "repository": "https://github.com/acaverna/caverna-vscode-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Caverna-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/caverna-theme-color-theme.json"
+            }
+        ]
+    }
+}
